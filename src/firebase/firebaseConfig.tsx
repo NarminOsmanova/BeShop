@@ -2,14 +2,14 @@ import firebase from "firebase/app";
 import "firebase/database";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCxD_EcVEjWn8cysqgmHq3tifpL9pieJF8",
-    authDomain: "beshop-b9cbb.firebaseapp.com",
-    databaseURL: "https://beshop-b9cbb-default-rtdb.firebaseio.com",
-    projectId: "beshop-b9cbb",
-    storageBucket: "beshop-b9cbb.appspot.com",
-    messagingSenderId: "281189375837",
-    appId: "1:281189375837:web:16969082a83268a67a12b4"
-};
+    apiKey: "AIzaSyAN2_f2kAI-ODmDiB1q4wu5sHRih2cIaLQ",
+    authDomain: "beshop-4240a.firebaseapp.com",
+    databaseURL: "https://beshop-4240a-default-rtdb.firebaseio.com",
+    projectId: "beshop-4240a",
+    storageBucket: "beshop-4240a.appspot.com",
+    messagingSenderId: "451167802164",
+    appId: "1:451167802164:web:6fc598ac1b5f94c1e90b61"
+  };
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
